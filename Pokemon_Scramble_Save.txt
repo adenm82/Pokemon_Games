@@ -1,0 +1,1059 @@
+#My completed runs 
+
+3 Pokemon in 7.59 seconds, 2.53 seconds per Pokemon: 
+Magnemite gneeiammt 3.07s
+Florges sgflero 1.75s
+Emboar raebom 2.78s
+
+5 Pokemon in 16.21 seconds, 3.24 seconds per Pokemon: 
+Vileplume emvuiellp 4.51s
+Pancham mapchan 2.3s
+Prinplup lpppriun 3.37s
+Breloom mbrooel 1.94s
+Gyarados rasagyod 4.09s
+
+5 Pokemon in 16.42 seconds, 3.28 seconds per Pokemon: 
+Zeraora zaaroer 3.16s
+Dachsbun chandsub 6.33s
+Rhydon ydnhor 2.32s
+Dondozo ooonddz 2.48s
+Audino oadinu 2.14s
+
+5 Pokemon in 14.57 seconds, 2.91 seconds per Pokemon: 
+Scraggy ggcrsya 3.24s
+Fennekin efnnneki 2.27s
+Kakuna kuakan 4.26s
+Popplio opiplpo 2.39s
+Gouging Fire oungggi rfei 2.4s
+
+5 Pokemon in 10.96 seconds, 2.19 seconds per Pokemon: 
+Iron Valiant iorn aivtaln 3.68s
+Munna umann 1.49s
+Munchlax hxmualnc 2.32s
+Flittle lifltte 1.56s
+Leavanny aalvenyn 1.91s
+
+1 Pokemon in 2.47 seconds, 2.47 seconds per Pokemon: 
+Swampert raspmtew 2.47s
+
+5 Pokemon in 13.94 seconds, 2.79 seconds per Pokemon: 
+Quaquaval aqaqlvuau 2.89s
+Shedinja sjinadhe 2.45s
+Duraludon drauludon 2.87s
+Lunala ualnla 2.24s
+Metang ngmaet 3.5s
+
+3 Pokemon in 6.36 seconds, 2.12 seconds per Pokemon: 
+Weedle lewede 2.1s
+Cinccino nioicncc 2.24s
+Tapu Bulu taup luub 2.01s
+
+3 Pokemon in 9.49 seconds, 3.16 seconds per Pokemon: 
+Arceus esracu 5.98s
+Paras rasap 1.56s
+Goomy oogmy 1.95s
+
+1 Pokemon in 1.51 seconds, 1.51 seconds per Pokemon: 
+Steelix etlesix 1.51s
+
+1 Pokemon in 3.37 seconds, 3.37 seconds per Pokemon: 
+Probopass obssrappo 3.37s
+
+1 Pokemon in 1.31 seconds, 1.31 seconds per Pokemon: 
+Comfey cfmeyo 1.31s
+
+1 Pokemon in 3.79 seconds, 3.79 seconds per Pokemon: 
+Bisharp asrihbp 3.79s
+
+1 Pokemon in 2.05 seconds, 2.05 seconds per Pokemon: 
+Tyrunt unyrtt 2.05s
+
+3 Pokemon in 7.96 seconds, 2.65 seconds per Pokemon: 
+Lairon inorla 3.07s
+Weepinbell welleiepbn 2.13s
+Litleo etilol 2.77s
+
+5 Pokemon in 13.57 seconds, 2.71 seconds per Pokemon: 
+Torterra orreratt 2.91s
+Tauros routas 2.77s
+Pidgeot eidgtpo 1.95s
+Turtwig wttrigu 2.84s
+Charjabug rbuaghcja 3.11s
+
+1 Pokemon in 2.27 seconds, 2.27 seconds per Pokemon: 
+Numel lnemu 2.27s
+
+1 Pokemon in 2.84 seconds, 2.84 seconds per Pokemon: 
+Regidrago egroarigd 2.84s
+
+1 Pokemon in 2.22 seconds, 2.22 seconds per Pokemon: 
+Qwilfish flwsiihq 2.22s
+
+1 Pokemon in 2.44 seconds, 2.44 seconds per Pokemon: 
+Dartrix adxrirt 2.44s
+
+1 Pokemon in 2.55 seconds, 2.55 seconds per Pokemon: 
+Skeledirge elsikegerd 2.55s
+
+1 Pokemon in 3.4 seconds, 3.40 seconds per Pokemon: 
+Ho-Oh oo-hh 3.4s
+
+3 Pokemon in 9.79 seconds, 3.26 seconds per Pokemon: 
+Frigibax xgrbiafi 3.53s
+Sigilyph hglyiisp 1.99s
+Magearna amenaarg 4.27s
+
+3 Pokemon in 8.76 seconds, 2.92 seconds per Pokemon: 
+Boldore rleoodb 3.26s
+Rhyhorn ryrhohn 2.23s
+Thwackey akyhwcet 3.26s
+
+3 Pokemon in 7.23 seconds, 2.41 seconds per Pokemon: 
+Dewgong eonwdgg 2.02s
+Nickit iciknt 1.94s
+Minior rinimo 3.27s
+
+3 Pokemon in 8.65 seconds, 2.88 seconds per Pokemon: 
+Golem eolmg 1.56s
+Regidrago dogrgeira 2.43s
+Archaludon oralnchuad 4.66s
+
+3 Pokemon in 7.03 seconds, 2.34 seconds per Pokemon: 
+Haxorus uxoshar 3.52s
+Steelix etsleix 1.69s
+Kartana knrtaaa 1.82s
+
+3 Pokemon in 13.2 seconds, 4.40 seconds per Pokemon: 
+Dewgong gdwgneo 1.9s
+Ho-Oh oho-h 1.64s
+Cranidos iocadrns 9.66s
+
+3 Pokemon in 9.23 seconds, 3.08 seconds per Pokemon: 
+Furfrou fruoufr 2.34s
+Chien-Pao ap-ecohni 4.1s
+Nuzleaf azunelf 2.79s
+
+3 Pokemon in 6.19 seconds, 2.06 seconds per Pokemon: 
+Pachirisu cprihsuia 2.26s
+Pansage pasgean 1.78s
+Applin pplnai 2.15s
+
+3 Pokemon in 6.03 seconds, 2.01 seconds per Pokemon: 
+Dewgong wnogegd 1.87s
+Ariados radoias 2.39s
+Kadabra rdakaba 1.77s
+
+5 Pokemon in 15.38 seconds, 3.08 seconds per Pokemon: 
+Larvesta vtraesla 2.34s
+Inteleon nlitnoee 3.12s
+Shieldon esdhonli 2.99s
+Snover oevsrn 4.36s
+Rampardos rdasrmoap 2.56s
+
+5 Pokemon in 11.57 seconds, 2.31 seconds per Pokemon: 
+Aurorus uorsrau 3.42s
+Porygon npogory 1.9s
+Sewaddle adlewsed 2.37s
+Kadabra kdrabaa 1.94s
+Vibrava ibaarvv 1.93s
+
+5 Pokemon in 15.29 seconds, 3.06 seconds per Pokemon: 
+Rillaboom mlilrbaoo 2.38s
+Shinx nhisx 1.39s
+Meowscarada asacaedowrm 2.3s
+Luvdisc vuidslc 3.21s
+Arceus rsecau 6.01s
+
+5 Pokemon in 12.61 seconds, 2.52 seconds per Pokemon: 
+Stunfisk ifskutns 2.25s
+Seel else 1.43s
+Volcanion aoivcnlno 2.48s
+Seviper irpseve 2.18s
+Exeggcute eetcgguex 4.27s
+
+5 Pokemon in 10.74 seconds, 2.15 seconds per Pokemon: 
+Servine vreisen 1.75s
+Foongus uonofsg 1.84s
+Iron Hands nior danhs 3.03s
+Quaxwell quawxell 2.33s
+Mimikyu iummiky 1.78s
+
+3 Pokemon in 5.01 seconds, 1.67 seconds per Pokemon: 
+Latias satila 1.59s
+Shellos ollhses 1.8s
+Simisear assemiri 1.61s
+
+1 Pokemon in 2.4 seconds, 2.40 seconds per Pokemon: 
+Melmetal melmaetl 2.4s
+
+1 Pokemon in 1.77 seconds, 1.77 seconds per Pokemon: 
+Volbeat blevtao 1.77s
+
+1 Pokemon in 2.74 seconds, 2.74 seconds per Pokemon: 
+Sandshrew hsrneswad 2.74s
+
+1 Pokemon in 2.62 seconds, 2.62 seconds per Pokemon: 
+Luvdisc ciludsv 2.62s
+
+1 Pokemon in 1.49 seconds, 1.49 seconds per Pokemon: 
+Simisear imsearsi 1.49s
+
+1 Pokemon in 2.39 seconds, 2.39 seconds per Pokemon: 
+Jigglypuff flgjguiyfp 2.39s
+
+5 Pokemon in 13.34 seconds, 2.67 seconds per Pokemon: 
+Zorua urazo 2.13s
+Nidoking noikdgni 2.19s
+Kadabra akdaarb 1.89s
+Darmanitan nntadarmai 2.45s
+Azelf elfza 4.68s
+
+5 Pokemon in 17.81 seconds, 3.56 seconds per Pokemon: 
+Plusle plsule 8.66s
+Dusclops lsodscpu 2.72s
+Revavroom eroaovmvr 2.42s
+Lickitung iclintkug 1.81s
+Perrserker rrerkspere 2.2s
+
+5 Pokemon in 12.42 seconds, 2.48 seconds per Pokemon: 
+Probopass oarpsspob 2.93s
+Avalugg ugavlag 1.98s
+Machop pacmoh 2.33s
+Tangela tlgaean 2.91s
+Bibarel abrelbi 2.27s
+
+1 Pokemon in 4.47 seconds, 4.47 seconds per Pokemon: 
+Toxicroak oxoarctik 4.47s
+
+3 Pokemon in 10.25 seconds, 3.42 seconds per Pokemon: 
+Sandaconda anacsonadd 2.53s
+Tornadus rsaotudn 5.61s
+Rolycoly yylocrlo 2.1s
+
+3 Pokemon in 5.76 seconds, 1.92 seconds per Pokemon: 
+Zekrom ezmrok 2.1s
+Slaking lsingka 1.53s
+Goodra grodoa 2.14s
+
+5 Pokemon in 15.45 seconds, 3.09 seconds per Pokemon: 
+Cubone ebcnou 1.83s
+Mareanie anaeirme 3.17s
+Yamask amakys 2.64s
+Pangoro rgnopao 4.49s
+Braviary ayviarrb 3.33s
+
+5 Pokemon in 10.82 seconds, 2.16 seconds per Pokemon: 
+Mightyena ayeitmnhg 3.42s
+Munna umnan 1.57s
+Dottler rteltdo 1.83s
+Yamper ayempr 1.54s
+Revavroom raveroovm 2.47s
+
+5 Pokemon in 13.97 seconds, 2.79 seconds per Pokemon: 
+Pawmo mwopa 2.3s
+Braviary ivbryraa 1.86s
+Tinkatuff ittffuank 2.1s
+Hattrem hmttare 5.11s
+Ting-Lu l-niutg 2.61s
+
+5 Pokemon in 12.79 seconds, 2.56 seconds per Pokemon: 
+Floette loetfte 2.84s
+Crawdaunt caurawdnt 1.89s
+Delibird iliredbd 2.26s
+Squawkabilly bysilwaklqau 3.2s
+Pyukumuku kumykuuup 2.6s
+
+5 Pokemon in 14.26 seconds, 2.85 seconds per Pokemon: 
+Decidueye yiddeeeuc 2.35s
+Pangoro gpnoroa 1.63s
+Grumpig gpgimru 2.64s
+Lechonk leocnhk 3.67s
+Pyroar rryaop 3.97s
+
+5 Pokemon in 17.39 seconds, 3.48 seconds per Pokemon: 
+Vibrava vabairv 2.56s
+Oddish sioddh 4.28s
+Gabite gaibte 3.61s
+Clauncher ccuanlerh 4.76s
+Boltund dobulnt 2.18s
+
+5 Pokemon in 10.61 seconds, 2.12 seconds per Pokemon: 
+Diggersby rbdsggiye 2.41s
+Fennekin nnkfeine 2.18s
+Watchog hgcowat 1.85s
+Vullaby vbyuall 2.02s
+Carnivine vaencrnii 2.15s
+
+5 Pokemon in 14.37 seconds, 2.87 seconds per Pokemon: 
+Sandshrew ndhewrsas 2.27s
+Greavard gvaedarr 4.47s
+Volcarona anvlarooc 3.31s
+Solgaleo sgleaolo 2.47s
+Zorua arozu 1.85s
+
+5 Pokemon in 10.43 seconds, 2.09 seconds per Pokemon: 
+Pyroar aoyrrp 2.74s
+Sinistea tneiiass 1.77s
+Starly lryast 1.71s
+Tepig eigtp 2.69s
+Hoopa hoapo 1.52s
+
+5 Pokemon in 10.79 seconds, 2.16 seconds per Pokemon: 
+Decidueye iuceyddee 2.44s
+Duskull uuldlks 2.37s
+Carbink knbicra 2.25s
+Patrat ratpta 1.81s
+Ekans saenk 1.91s
+
+5 Pokemon in 11.93 seconds, 2.39 seconds per Pokemon: 
+Luxray aluryx 1.65s
+Morgrem mrroegm 2.03s
+Sandile senaldi 3.24s
+Uxie eixu 1.81s
+Girafarig aiairgfgr 3.2s
+
+5 Pokemon in 12.01 seconds, 2.40 seconds per Pokemon: 
+Happiny anppyih 2.22s
+Hatenna htnaean 2.65s
+Machamp ahmapmc 2.84s
+Decidueye ceueddyei 1.95s
+Bonsly bsnloy 2.34s
+
+5 Pokemon in 10.66 seconds, 2.13 seconds per Pokemon: 
+Spidops sodpspi 2.87s
+Dolliv lidlvo 1.73s
+Okidogi digikoo 2.15s
+Kingdra argndki 2.06s
+Oricorio oroicrio 1.85s
+
+5 Pokemon in 10.49 seconds, 2.10 seconds per Pokemon: 
+Plusle lsupel 2.19s
+Iron Crown rnio orwcn 1.85s
+Minun inumn 2.06s
+Snorlax xraosln 2.93s
+Kakuna nauakk 1.45s
+
+5 Pokemon in 10.62 seconds, 2.12 seconds per Pokemon: 
+Blitzle ileltzb 1.84s
+Eiscue esuice 2.82s
+Lunatone natoeuln 1.84s
+Rufflet etfrluf 2.3s
+Munkidori dkmuinrio 1.83s
+
+5 Pokemon in 12.97 seconds, 2.59 seconds per Pokemon: 
+Shuppet setpuph 1.64s
+Lucario cluiaor 4.18s
+Unown nuonw 1.57s
+Kabuto ktboau 3.9s
+Swalot awlots 1.69s
+
+5 Pokemon in 14.39 seconds, 2.88 seconds per Pokemon: 
+Pyroar raropy 1.82s
+Squawkabilly ysbwkaqailul 4.79s
+Vespiquen ieqvpnseu 3.55s
+Walking Wake ikwagnl eakw 2.32s
+Charjabug aagujchbr 1.91s
+
+5 Pokemon in 10.39 seconds, 2.08 seconds per Pokemon: 
+Garbodor odgarorb 3.74s
+Drampa admrpa 1.82s
+Cubone uecbon 1.39s
+Surskit ktsuisr 1.72s
+Munchlax cxnamhlu 1.73s
+
+5 Pokemon in 9.83 seconds, 1.97 seconds per Pokemon: 
+Pignite tieping 1.6s
+Petilil epiiltl 3.0s
+Yamper reampy 1.48s
+Slowking siwklnog 2.0s
+Milcery rmilcye 1.75s
+
+10 Pokemon in 24.32 seconds, 2.43 seconds per Pokemon: 
+Gabite btagei 2.12s
+Carnivine vneraiinc 2.13s
+Tentacruel etnclatrue 2.47s
+Skwovet sketovw 2.39s
+Solgaleo lgoaosel 3.1s
+Ho-Oh ohho- 1.76s
+Pyroar rorypa 2.68s
+Nidoqueen dnneiueqo 2.22s
+Surskit iksurst 1.71s
+Mightyena niyhmagte 3.74s
+
+10 Pokemon in 32.04 seconds, 3.20 seconds per Pokemon: 
+Houndstone etsuodnhno 3.84s
+Stunfisk skiutfns 2.23s
+Rabsca rscbaa 6.37s
+Raichu riucah 2.61s
+Squirtle rislteuq 2.3s
+Ditto doitt 2.27s
+Minccino ciimcnon 4.11s
+Zacian aanzci 2.23s
+Sandy Shocks sndya csoshk 4.26s
+Litleo toelil 1.83s
+
+10 Pokemon in 32.31 seconds, 3.23 seconds per Pokemon: 
+Dottler trtdole 2.29s
+Grafaiai firgaaia 3.04s
+Dewpider eprddwei 2.26s
+Maractus amasrtuc 2.43s
+Surskit utsriks 2.13s
+Armaldo raadmol 6.87s
+Fuecoco eoucfco 3.82s
+Infernape nrafnipee 2.48s
+Treecko rceetko 3.26s
+Foongus oounsfg 3.73s
+
+5 Pokemon in 9.82 seconds, 1.96 seconds per Pokemon: 
+Lunatone tlnenoua 3.01s
+Golisopod pligoosod 2.61s
+Dottler dtrelot 1.44s
+Munna nnaum 1.21s
+Darkrai krrdaai 1.55s
+
+3 Pokemon in 5.98 seconds, 1.99 seconds per Pokemon: 
+Timburr rrtbmiu 1.69s
+Regirock cgekrior 2.19s
+Gardevoir degraoivr 2.1s
+
+5 Pokemon in 11.98 seconds, 2.40 seconds per Pokemon: 
+Sandshrew rwasdsneh 2.73s
+Pikachu uckaiph 2.08s
+Stoutland ontstdlau 3.32s
+Togetic toeitgc 1.58s
+Cleffa celaff 2.27s
+
+10 Pokemon in 23.67 seconds, 2.37 seconds per Pokemon: 
+Turtwig rutgitw 2.02s
+Charjabug hjgracbau 2.68s
+Medicham imdcmhea 2.19s
+Scrafty ystcfra 2.25s
+Staravia tarsviaa 1.94s
+Ludicolo doulcilo 1.94s
+Weezing neezigw 2.63s
+Hoppip opihpp 1.57s
+Ferrothorn rtfernoohr 3.7s
+Meganium gniemuma 2.76s
+
+10 Pokemon in 36.19 seconds, 3.62 seconds per Pokemon: 
+Ludicolo loducoil 1.85s
+Mabosstiff oatsifbmsf 5.85s
+Annihilape lnapnahiei 4.53s
+Calyrex xelycra 2.85s
+Staraptor sotraprat 3.56s
+Rookidee ookedire 3.85s
+Sentret tntsree 7.16s
+Tapu Lele aptu lele 2.26s
+Glimmet mlmegti 1.82s
+Yamask ayakms 2.46s
+
+10 Pokemon in 30.52 seconds, 3.05 seconds per Pokemon: 
+Weezing geewizn 2.41s
+Slowpoke lsokopew 2.93s
+Scizor rcziso 2.83s
+Palossand poansslda 3.95s
+Charcadet cthrcaade 2.55s
+Meowscarada eacdoswamar 5.55s
+Frosmoth msohfort 3.08s
+Vullaby lbulayv 1.76s
+Arbok aokrb 2.2s
+Bramblin nbabmirl 3.26s
+
+10 Pokemon in 24.45 seconds, 2.44 seconds per Pokemon: 
+Raikou rkaiou 1.94s
+Hatenna teaanhn 3.04s
+Scraggy rgasgcy 1.98s
+Zygarde gzedayr 3.5s
+Rattata atraatt 1.81s
+Rellor lreorl 3.15s
+Slowking nwklgsoi 1.93s
+Ribombee bribomee 2.77s
+Magby gmayb 2.03s
+Granbull lulbnarg 2.29s
+
+10 Pokemon in 19.55 seconds, 1.96 seconds per Pokemon: 
+Ribombee irbboeme 1.89s
+Celebi celebi 1.65s
+Corphish chrhpsio 3.0s
+Chewtle wtelech 1.72s
+Ambipom aobpmim 2.34s
+Seedot eesodt 1.51s
+Flygon oyngfl 1.51s
+Regirock ceogrrik 2.18s
+Frigibax rfaiibxg 2.01s
+Grookey ooegykr 1.73s
+
+5 Pokemon in 16.86 seconds, 3.37 seconds per Pokemon: 
+Omastar sratamo 10.23s
+Torchic ctiorch 1.61s
+Zarude uderza 1.77s
+Minun nmiun 1.3s
+Jellicent lenijctle 1.95s
+
+5 Pokemon in 9.08 seconds, 1.82 seconds per Pokemon: 
+Pinsir irspni 1.41s
+Stunfisk kitusnfs 1.92s
+Ludicolo uilodcol 2.35s
+Frillish ifsrlihl 1.62s
+Zygarde regdyaz 1.79s
+
+1 Pokemon in 1.79 seconds, 1.79 seconds per Pokemon: 
+Luvdisc udcisvl 1.79s
+
+1 Pokemon in 1.99 seconds, 1.99 seconds per Pokemon: 
+Cloyster rcoystle 1.99s
+
+3 Pokemon in 5.09 seconds, 1.70 seconds per Pokemon: 
+Zacian azicna 1.6s
+Charizard ahzcrriad 1.75s
+Goodra dogaor 1.74s
+
+5 Pokemon in 12.58 seconds, 2.52 seconds per Pokemon: 
+Rampardos rmroasadp 3.86s
+Cufant faucnt 1.67s
+Mr. Rime mr. riem 2.06s
+Appletun tpuapenl 2.02s
+Turtonator nroottautr 2.98s
+
+5 Pokemon in 17.6 seconds, 3.52 seconds per Pokemon: 
+Blissey leisybs 2.13s
+Gourgeist tiugsorge 8.2s
+Miltank mkntila 1.89s
+Trubbish ubhbistr 2.39s
+Mabosstiff safmtofibs 2.99s
+
+5 Pokemon in 11.29 seconds, 2.26 seconds per Pokemon: 
+Floatzel aflzloet 2.4s
+Rabsca sbraca 3.25s
+Venusaur asrvuune 2.18s
+Lugia guial 1.36s
+Capsakid adpakics 2.1s
+
+5 Pokemon in 8.92 seconds, 1.78 seconds per Pokemon: 
+Golem gomel 1.45s
+Litleo ltoiel 2.08s
+Durant tuanrd 1.49s
+Wartortle wttrreola 2.27s
+Dondozo doodnoz 1.63s
+
+3 Pokemon in 9.62 seconds, 3.21 seconds per Pokemon: 
+Tyrogue turogey 4.34s
+Meowscarada ocrwaasamde 3.73s
+Chansey cnsahye 1.56s
+
+3 Pokemon in 5.51 seconds, 1.84 seconds per Pokemon: 
+Frillish illhirsf 1.66s
+Thievul uehvtil 2.18s
+Ludicolo collduoi 1.66s
+
+3 Pokemon in 7.09 seconds, 2.36 seconds per Pokemon: 
+Marshadow roadwshma 2.68s
+Cyclizar ayziclcr 2.57s
+Bronzong norgoznb 1.85s
+
+3 Pokemon in 5.19 seconds, 1.73 seconds per Pokemon: 
+Impidimp piipmimd 1.96s
+Rhyhorn hnhyror 2.01s
+Slugma amugsl 1.22s
+
+1 Pokemon in 1.79 seconds, 1.79 seconds per Pokemon: 
+Magikarp paimkarg 1.79s
+
+1 Pokemon in 2.02 seconds, 2.02 seconds per Pokemon: 
+Bruxish suixhbr 2.02s
+
+1 Pokemon in 2.61 seconds, 2.61 seconds per Pokemon: 
+Maschiff ffscamih 2.61s
+
+1 Pokemon in 4.13 seconds, 4.13 seconds per Pokemon: 
+Cosmog smcgoo 4.13s
+
+1 Pokemon in 2.2 seconds, 2.20 seconds per Pokemon: 
+Tyranitar itynrarta 2.2s
+
+1 Pokemon in 1.75 seconds, 1.75 seconds per Pokemon: 
+Drizzile zrzlidie 1.75s
+
+1 Pokemon in 1.49 seconds, 1.49 seconds per Pokemon: 
+Stantler raletnts 1.49s
+
+1 Pokemon in 1.64 seconds, 1.64 seconds per Pokemon: 
+Cinccino incoiccn 1.64s
+
+1 Pokemon in 2.09 seconds, 2.09 seconds per Pokemon: 
+Litwick lkwciit 2.09s
+
+1 Pokemon in 1.83 seconds, 1.83 seconds per Pokemon: 
+Toxicroak rciooxkta 1.83s
+
+1 Pokemon in 2.18 seconds, 2.18 seconds per Pokemon: 
+Corviknight kivitogrnhc 2.18s
+
+1 Pokemon in 2.29 seconds, 2.29 seconds per Pokemon: 
+Ceruledge egreudcle 2.29s
+
+1 Pokemon in 5.29 seconds, 5.29 seconds per Pokemon: 
+Chien-Pao oniecahp- 5.29s
+
+1 Pokemon in 1.11 seconds, 1.11 seconds per Pokemon: 
+Aron anor 1.11s
+
+1 Pokemon in 1.37 seconds, 1.37 seconds per Pokemon: 
+Ralts arslt 1.37s
+
+3 Pokemon in 6.89 seconds, 2.30 seconds per Pokemon: 
+Slowking nswkligo 2.6s
+Fidough uiohgdf 2.57s
+Frigibax gfbaixir 1.72s
+
+3 Pokemon in 7.08 seconds, 2.36 seconds per Pokemon: 
+Bellossom sellmosbo 3.49s
+Frillish lflhiisr 1.54s
+Frigibax ifargxib 2.05s
+
+3 Pokemon in 7.92 seconds, 2.64 seconds per Pokemon: 
+Stantler atrnetls 2.0s
+Iron Jugulis oinr sgjiuul 3.28s
+Quaquaval auqaauvql 2.64s
+
+15 Pokemon in 37.66 seconds, 2.51 seconds per Pokemon: 
+Toxtricity toticiyrxt 2.57s
+Ursaring inrarusg 2.77s
+Zapdos azspod 1.54s
+Wailmer aerimlw 1.86s
+Probopass ooapsbsrp 2.03s
+Ferrothorn rrhftooern 2.53s
+Swoobat stboowa 2.08s
+Sliggoo ogoilgs 2.09s
+Cufant ftunca 1.7s
+Drampa raapmd 2.04s
+Jolteon lojnote 1.86s
+Palafin npfalai 4.86s
+Sinistcha hasnisitc 3.77s
+Grovyle ogrvlye 2.88s
+Vanilluxe uxalelvni 3.08s
+
+3 Pokemon in 5.19 seconds, 1.73 seconds per Pokemon: 
+Klang lakng 1.33s
+Hatenna annehat 1.51s
+Klefki flikek 2.35s
+
+3 Pokemon in 6.42 seconds, 2.14 seconds per Pokemon: 
+Nihilego ielhigon 3.11s
+Serperior rereporis 1.89s
+Stunky ysuktn 1.42s
+
+3 Pokemon in 5.76 seconds, 1.92 seconds per Pokemon: 
+Budew edbuw 1.34s
+Mandibuzz nabdizmuz 2.49s
+Flabebe lfebeab 1.93s
+
+3 Pokemon in 5.62 seconds, 1.87 seconds per Pokemon: 
+Sealeo eleosa 1.74s
+Donphan npanodh 2.26s
+Krabby byrkba 1.62s
+
+3 Pokemon in 5.45 seconds, 1.82 seconds per Pokemon: 
+Magnezone nzgnoemea 1.95s
+Regice receig 1.92s
+Beheeyem eemyeehb 1.58s
+
+3 Pokemon in 8.99 seconds, 3.00 seconds per Pokemon: 
+Mothim imhtmo 2.47s
+Magearna maareang 2.38s
+Snover ovrnse 4.14s
+
+3 Pokemon in 7.6 seconds, 2.53 seconds per Pokemon: 
+Gligar iglgra 4.04s
+Wishiwashi shwiaiihws 2.07s
+Yamper emarpy 1.49s
+
+3 Pokemon in 9.3 seconds, 3.10 seconds per Pokemon: 
+Prinplup iupnlrpp 1.73s
+Goldeen egnedlo 2.86s
+Slither Wing sthielr igwn 4.71s
+
+3 Pokemon in 6.25 seconds, 2.08 seconds per Pokemon: 
+Togekiss sgteoisk 1.73s
+Gastly gylsat 2.32s
+Magmortar mmraartgo 2.2s
+
+3 Pokemon in 6.57 seconds, 2.19 seconds per Pokemon: 
+Dartrix txiarrd 2.64s
+Drizzile direzzli 1.81s
+Cofagrigus uaocrgisfg 2.13s
+
+3 Pokemon in 5.76 seconds, 1.92 seconds per Pokemon: 
+Spidops spdspio 1.67s
+Calyrex eyrlxca 2.09s
+Bellossom lsmosebol 2.0s
+
+3 Pokemon in 5.71 seconds, 1.90 seconds per Pokemon: 
+Goodra draoog 1.66s
+Goldeen oldeneg 2.33s
+Houndour onuuodrh 1.72s
+
+3 Pokemon in 5.12 seconds, 1.71 seconds per Pokemon: 
+Cascoon ocaocsn 1.78s
+Simipour sioumrpi 1.86s
+Ho-Oh -hooh 1.47s
+
+3 Pokemon in 5.78 seconds, 1.93 seconds per Pokemon: 
+Indeedee eieedend 1.78s
+Whimsicott ctwhoimsit 2.48s
+Houndoom umoodhon 1.52s
+
+3 Pokemon in 6.02 seconds, 2.01 seconds per Pokemon: 
+Maractus amasctur 1.97s
+Tepig tigep 1.57s
+Ledian nadeli 2.47s
+
+3 Pokemon in 5.81 seconds, 1.94 seconds per Pokemon: 
+Tapu Bulu ptau ulbu 1.64s
+Rowlet lwerto 2.7s
+Latios otslia 1.47s
+
+3 Pokemon in 5.78 seconds, 1.93 seconds per Pokemon: 
+Golduck ukcdogl 1.85s
+Spearow wraspoe 2.22s
+Nosepass ssepnaos 1.7s
+
+3 Pokemon in 5.82 seconds, 1.94 seconds per Pokemon: 
+Sinistea iienstsa 1.63s
+Magneton etganomn 1.86s
+Scraggy yrgsacg 2.33s
+
+3 Pokemon in 5.49 seconds, 1.83 seconds per Pokemon: 
+Garbodor rgrobaod 1.74s
+Klink iklkn 1.64s
+Drowzee drwzeoe 2.11s
+
+3 Pokemon in 4.63 seconds, 1.54 seconds per Pokemon: 
+Pinsir irsipn 1.42s
+Stakataka akastkaat 1.9s
+Klang glkan 1.31s
+
+15 Pokemon in 46.95 seconds, 3.13 seconds per Pokemon: 
+Slither Wing islrteh wngi 3.77s
+Horsea rehaso 1.87s
+Blaziken zlkeiban 2.3s
+Mr. Rime r.m emir 2.67s
+Goomy omyog 1.33s
+Rookidee odrkeoie 2.68s
+Latias litsaa 1.67s
+Basculegion eunlsoaigbc 3.8s
+Emboar aemobr 6.39s
+Dachsbun hsaunbdc 3.03s
+Pachirisu sraichiup 4.87s
+Tirtouga gtioruta 2.21s
+Octillery ltoiyelrc 6.27s
+Venomoth neoovhmt 2.37s
+Hoppip ihpopp 1.7s
+
+1 Pokemon in 3.77 seconds, 3.77 seconds per Pokemon: 
+Drednaw nwaerdd 3.77s
+
+1 Pokemon in 2.3 seconds, 2.30 seconds per Pokemon: 
+Drizzile ierdzilz 2.3s
+
+1 Pokemon in 1.75 seconds, 1.75 seconds per Pokemon: 
+Magikarp amgairpk 1.75s
+
+1 Pokemon in 1.37 seconds, 1.37 seconds per Pokemon: 
+Grimer greirm 1.37s
+
+1 Pokemon in 1.74 seconds, 1.74 seconds per Pokemon: 
+Leafeon laenfeo 1.74s
+
+1 Pokemon in 1.3 seconds, 1.30 seconds per Pokemon: 
+Cufant ufanct 1.3s
+
+1 Pokemon in 3.21 seconds, 3.21 seconds per Pokemon: 
+Terapagos rpgoaatse 3.21s
+
+1 Pokemon in 1.67 seconds, 1.67 seconds per Pokemon: 
+Dugtrio guroidt 1.67s
+
+1 Pokemon in 1.73 seconds, 1.73 seconds per Pokemon: 
+Donphan hdanonp 1.73s
+
+1 Pokemon in 2.18 seconds, 2.18 seconds per Pokemon: 
+Skitty ttikys 2.18s
+
+1 Pokemon in 1.14 seconds, 1.14 seconds per Pokemon: 
+Throh rthho 1.14s
+
+1 Pokemon in 1.93 seconds, 1.93 seconds per Pokemon: 
+Wooloo ooowlo 1.93s
+
+1 Pokemon in 3.64 seconds, 3.64 seconds per Pokemon: 
+Hakamo-o am-oaohk 3.64s
+
+1 Pokemon in 1.63 seconds, 1.63 seconds per Pokemon: 
+Chi-Yu h-yuci 1.63s
+
+15 Pokemon in 36.99 seconds, 2.47 seconds per Pokemon: 
+Raticate tecaiatr 2.4s
+Floette eofltte 1.47s
+Toxtricity tcrxtitoiy 2.17s
+Frillish hlifirsl 1.85s
+Snom nmos 1.38s
+Chewtle elehctw 3.69s
+Corviknight otknhrcgiiv 3.11s
+Tatsugiri igtutarsi 2.47s
+Meganium mauimneg 2.01s
+Iron Bundle rino elnubd 2.06s
+Magnemite tnmgeimae 4.38s
+Smoochum umochsom 2.77s
+Finneon ofeninn 2.52s
+Krookodile oeorkiodlk 3.5s
+Snover ervosn 1.21s
+
+1 Pokemon in 2.05 seconds, 2.05 seconds per Pokemon: 
+Litwick ckltiwi 2.05s
+
+1 Pokemon in 1.72 seconds, 1.72 seconds per Pokemon: 
+Baltoy olatyb 1.72s
+
+1 Pokemon in 1.81 seconds, 1.81 seconds per Pokemon: 
+Arbok kabro 1.81s
+
+15 Pokemon in 35.75 seconds, 2.38 seconds per Pokemon: 
+Celebi bicele 1.62s
+Budew euwbd 1.52s
+Zamazenta azamnztea 2.12s
+Dragonite iaotgnedr 3.22s
+Swanna ansnwa 1.76s
+Chewtle cwehlte 1.6s
+Skeledirge reesilgdke 3.81s
+Volcanion cinvlnaoo 2.37s
+Charmander rharacnedm 1.74s
+Lileep lipeel 2.71s
+Palkia aakilp 2.42s
+Suicune uniecsu 1.93s
+Cyndaquil luiqcaydn 2.6s
+Frigibax gxibfrai 2.67s
+Exploud delouxp 3.64s
+
+1 Pokemon in 1.2 seconds, 1.20 seconds per Pokemon: 
+Mankey aynkem 1.2s
+
+1 Pokemon in 1.41 seconds, 1.41 seconds per Pokemon: 
+Axew exaw 1.41s
+
+1 Pokemon in 1.83 seconds, 1.83 seconds per Pokemon: 
+Bergmite ebgeitmr 1.83s
+
+1 Pokemon in 2.11 seconds, 2.11 seconds per Pokemon: 
+Duraludon dlunruaod 2.11s
+
+1 Pokemon in 1.14 seconds, 1.14 seconds per Pokemon: 
+Gible ibegl 1.14s
+
+1 Pokemon in 2.22 seconds, 2.22 seconds per Pokemon: 
+Morelull loelruml 2.22s
+
+1 Pokemon in 1.8 seconds, 1.80 seconds per Pokemon: 
+Magnemite atgmeimne 1.8s
+
+1 Pokemon in 4.51 seconds, 4.51 seconds per Pokemon: 
+Cresselia rilssecea 4.51s
+
+5 Pokemon in 11.87 seconds, 2.37 seconds per Pokemon: 
+Magikarp parmikga 1.99s
+Gouging Fire ngoiugg rfei 3.47s
+Numel leumn 1.71s
+Nidorina narinodi 2.2s
+Gimmighoul hloggmmuii 2.49s
+
+1 Pokemon in 3.17 seconds, 3.17 seconds per Pokemon: 
+Flaaffy yafflaf 3.17s
+
+1 Pokemon in 1.85 seconds, 1.85 seconds per Pokemon: 
+Falinks akfsnil 1.85s
+
+1 Pokemon in 2.38 seconds, 2.38 seconds per Pokemon: 
+Swirlix sxwiril 2.38s
+
+5 Pokemon in 14.63 seconds, 2.93 seconds per Pokemon: 
+Spewpa sppwae 2.03s
+Dusknoir doiunskr 3.09s
+Dracovish sirvchaod 3.87s
+Lombre lbmreo 3.42s
+Swalot atlswo 2.21s
+
+10 Pokemon in 23.16 seconds, 2.32 seconds per Pokemon: 
+Archaludon chdlruaano 2.28s
+Sylveon nvsoyel 2.1s
+Staraptor arsotrpta 2.32s
+Lurantis lurnaits 2.85s
+Milcery myerlci 2.46s
+Minior iimrno 1.65s
+Machoke mkacoeh 1.96s
+Floatzel aloetzfl 2.01s
+Appletun nlpeatpu 1.82s
+Lileep peiell 3.71s
+
+5 Pokemon in 8.78 seconds, 1.76 seconds per Pokemon: 
+Hitmonlee eilohmnte 1.94s
+Sneasel nseasle 1.58s
+Nosepass posasens 1.8s
+Bibarel raeilbb 1.69s
+Carnivine encaivinr 1.76s
+
+1 Pokemon in 2.02 seconds, 2.02 seconds per Pokemon: 
+Iron Moth roin tohm 2.02s
+
+5 Pokemon in 10.83 seconds, 2.17 seconds per Pokemon: 
+Raboot boorta 1.77s
+Aerodactyl ydrtlacaeo 3.12s
+Jangmo-o ajn-ogmo 2.4s
+Quilladin nquailldi 1.91s
+Lunatone antlunoe 1.64s
+
+1 Pokemon in 2.27 seconds, 2.27 seconds per Pokemon: 
+Finizen finniez 2.27s
+
+1 Pokemon in 1.32 seconds, 1.32 seconds per Pokemon: 
+Gastly stlyag 1.32s
+
+1 Pokemon in 1.79 seconds, 1.79 seconds per Pokemon: 
+Snorlax oxlnras 1.79s
+
+15 Pokemon in 40.58 seconds, 2.71 seconds per Pokemon: 
+Fearow aorewf 1.7s
+Cherrim cihrmer 4.01s
+Aron anor 1.05s
+Brionne ennibor 2.83s
+Squawkabilly uaallsbwqiky 3.29s
+Voltorb ovtlrbo 2.2s
+Kricketune cunerkkite 3.42s
+Bagon bgano 2.08s
+Spectrier ireeptcrs 3.38s
+Tepig gtipe 1.58s
+Oinkologne lgonikeono 3.59s
+Cryogonal ocrnglaoy 4.24s
+Kricketot koritkcet 2.05s
+Monferno noernofm 2.16s
+Grimmsnarl smgrarlinm 3.0s
+
+1 Pokemon in 1.86 seconds, 1.86 seconds per Pokemon: 
+Rhydon drohyn 1.86s
+
+1 Pokemon in 2.85 seconds, 2.85 seconds per Pokemon: 
+Nidorino ioidronn 2.85s
+
+10 Pokemon in 22.5 seconds, 2.25 seconds per Pokemon: 
+Carracosta caarcrsota 2.11s
+Clauncher ceuarnhlc 1.74s
+Dolliv vlildo 1.56s
+Skuntank nnstukka 2.04s
+Houndstone unenhdosot 2.76s
+Elgyem egmlye 1.73s
+Golbat albtgo 1.62s
+Samurott tstumora 4.07s
+Iron Treads roin atesdr 2.92s
+Ponyta tynpoa 1.95s
+
+5 Pokemon in 13.01 seconds, 2.60 seconds per Pokemon: 
+Vigoroth hgoovtir 1.63s
+Sandaconda dcsoadnana 2.74s
+Cutiefly tclyiuef 2.4s
+Wigglytuff ilugffwgty 2.35s
+Dragalge aeggdalr 3.9s
+
+1 Pokemon in 1.69 seconds, 1.69 seconds per Pokemon: 
+Palafin fnpiala 1.69s
+
+1 Pokemon in 2.41 seconds, 2.41 seconds per Pokemon: 
+Scrafty tsracfy 2.41s
+
+1 Pokemon in 0.99 seconds, 0.99 seconds per Pokemon: 
+Natu tanu 0.99s
+
+15 Pokemon in 28.94 seconds, 1.93 seconds per Pokemon: 
+Swadloon alnodwos 2.12s
+Ekans enask 1.27s
+Clauncher crhnleuca 1.74s
+Kabuto bkatuo 1.98s
+Sandslash adnlhssas 2.04s
+Lunatone tnoealnu 1.94s
+Meowth mthewo 1.86s
+Tapu Koko upat koko 2.14s
+Slowking inlksogw 2.66s
+Slaking likasgn 1.68s
+Toxapex txeapxo 2.15s
+Emolga aoeglm 2.1s
+Vaporeon nrpooeva 1.89s
+Dewpider ddrwieep 1.95s
+Uxie xeui 1.44s
+
+1 Pokemon in 1.6 seconds, 1.60 seconds per Pokemon: 
+Voltorb rbotolv 1.6s
+
+10 Pokemon in 20.63 seconds, 2.06 seconds per Pokemon: 
+Marshadow omrdawahs 2.37s
+Coalossal aloascsol 2.98s
+Barboach bharobac 2.69s
+Pidove vdioep 1.58s
+Wishiwashi hshiswiwai 1.82s
+Litleo ioetll 1.47s
+Centiskorch teniccsrokh 2.44s
+Buizel luezib 1.65s
+Nidoqueen niuqedeno 1.96s
+Flareon olafrne 1.66s
+
+10 Pokemon in 28.59 seconds, 2.86 seconds per Pokemon: 
+Spearow aprweos 2.68s
+Natu tnau 1.14s
+Graveler rvelrega 2.39s
+Misdreavus aresusimdv 6.21s
+Hitmonchan otnmhhcnai 2.56s
+Silicobra lsbiroaic 4.19s
+Rotom moort 1.61s
+Corphish hsiorhpc 3.13s
+Mankey meanky 1.68s
+Patrat ataptr 3.0s
+
+10 Pokemon in 20.88 seconds, 2.09 seconds per Pokemon: 
+Corsola croasol 2.76s
+Torchic thcoirc 1.67s
+Raikou orakiu 1.65s
+Carvanha vhaaacrn 2.34s
+Mr. Mime .mr mime 2.22s
+Chatot thcato 1.75s
+Celesteela eaetsceell 2.51s
+Frigibax rfigaxib 1.85s
+Armarouge ruoagrema 2.57s
+Machamp aapmmch 1.56s
+
+4 Pokemon in 8.36 seconds, 2.09 seconds per Pokemon: 
+Tinkaton otknnait 2.33s
+Yamper yparem 1.57s
+Salazzle zleaalsz 2.7s
+Meganium egnmmuia 1.76s
+
+10 Pokemon in 22.78 seconds, 2.28 seconds per Pokemon: 
+Flabebe bfleabe 1.81s
+Electrike irtceelke 2.31s
+Farfetch'd ht'efarfdc 3.23s
+Chi-Yu ich-uy 1.86s
+Sandslash sdanhasls 1.83s
+Type: Null ypte: llun 2.16s
+Wo-Chien ioecwhn- 2.55s
+Charjabug bjghrauca 2.53s
+Carbink cibnkar 1.98s
+Butterfree efutrrteeb 2.52s
+
+10 Pokemon in 23.55 seconds, 2.35 seconds per Pokemon: 
+Floragato gfltaaoro 2.09s
+Golett lteotg 1.92s
+Corsola slacoor 2.83s
+Combee eemcob 1.67s
+Dewgong gonwged 1.74s
+Bellossom oolslebsm 1.9s
+Dhelmise hdsmelei 1.74s
+Roggenrola oloargnrge 5.42s
+Quaquaval uaaulvqaq 1.95s
+Sawk sakw 2.27s
+
