@@ -1057,3 +1057,8 @@ Roggenrola oloargnrge 5.42s
 Quaquaval uaaulvqaq 1.95s
 Sawk sakw 2.27s
 
+3 Pokemon in 5.95 seconds, 1.98 seconds per Pokemon: 
+Herdier drheeri 2.06s
+Quaquaval laaqquauv 2.35s
+Togetic itgetoc 1.54s
+
